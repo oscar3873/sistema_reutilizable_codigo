@@ -1,0 +1,47 @@
+# Editor/IDE files
+.vscode/
+.idea/
+*.pyc
+*.pyo
+*.bat
+
+# Environment files
+.venv/
+env/
+
+# Dependency files
+node_modules/
+bower_components/
+
+# Compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+*.dll
+*.exe
+*.o
+*.so
+*.obj
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite3
+*.db
+
+# Backup files
+*.bak
+*.swp
+*.backup
+*.tmp
+*~
+
+# Other
+.DS_Store
+Thumbs.db
+desktop.ini
+documents
